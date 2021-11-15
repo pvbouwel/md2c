@@ -37,7 +37,7 @@
   },
   "dependencies": {
     "clipboardy": "^1.2.3",
-    "marked": "^0.5.0"
+    "marked": "^0.7.0"
   },
   "devDependencies": {
     "@types/marked": "^0.4.0",
